@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/DinosaurXxX/b757fe011e7e600c0873f967fe427dc2/raw/ee5324771f017073fc30e640323ac2a9b3bfc550/dark%2520dex%2520v4"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FellyComf/RawScripts/refs/heads/main/Scripts/%D0%9A%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D1%8B%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%9F%D0%9A%D0%9C.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FellyComf/RawScripts/refs/heads/main/Scripts/%D0%9F%D1%83%D1%82%D1%8C%20%D0%B4%D0%BE%20UI%20%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B8%20%D0%BF%D0%BE%20%D0%9F%D0%9A%D0%9C.lua"))();
