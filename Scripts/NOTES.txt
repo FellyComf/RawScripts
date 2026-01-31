@@ -1,0 +1,8 @@
+* DEX EXPLORERS:
+https://github.com/SPDM-Team/ArceusX-V3-Scripts/blob/main/Dex-Explorer.lua
+loadstring(game:HttpGet("https://obj.wearedevs.net/2/scripts/Dex%20Explorer.lua"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/DinosaurXxX/b757fe011e7e600c0873f967fe427dc2/raw/ee5324771f017073fc30e640323ac2a9b3bfc550/dark%2520dex%2520v4"))();
+
+game:GetService("Workspace").Robjini01.Humanoid
+
+loadstring(game:HttpGet(""))();
